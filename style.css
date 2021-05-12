@@ -51,10 +51,19 @@ p{
 }
 .col-2 img{
     max-width: 100%;
-    padding: 100px 0;
+    padding: 50px 0;
+    
     
 }
 .logo{
     position: fixed;
     left: 4px;
+}
+.btn{
+
+    background: #ff523b;
+    color: #fff;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
 }
