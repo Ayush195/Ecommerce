@@ -194,14 +194,22 @@ small{
     flex-basis: 12%;
     text-align: center;
 }
+.footer-col-3 h3{
+    margin: auto;
+    text-align: center;
+}
+.footer-col-3 li{
+    margin-right: 22px;
+}
 ul{
     list-style-type: none;
 }
-/* .app-logo
+.app-logo
 {
     margin-top: 20px;
 
 }
 .app-logo img{
     width: 140px;
-} */
+    margin-left: 40px;
+}
